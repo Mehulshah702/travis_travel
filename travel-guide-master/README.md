@@ -14,7 +14,7 @@
 - Clone(fork) this repository.
 
   ```
-  git clone https://github.com/zero-to-mastery/travel-guide.git
+  git clone https://github.com/Mehulshah702/travis_travel
   ```
 
 - Run these following commands on your terminal/ cmd prompt:
