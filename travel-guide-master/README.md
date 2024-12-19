@@ -37,12 +37,3 @@
   
  ## Links
   [Facebook](https://www.facebook.com/zerotocodemastery/)
-  
-  [Instagram](https://www.instagram.com/andreineagoie/)
-  
-  [Youtube](https://www.youtube.com/channel/UCt7T2EvYBqvlxNU3fbE4Y7g)
-  
-  [Twitter](https://twitter.com/AndreiNeagoie)
-  
-
-
