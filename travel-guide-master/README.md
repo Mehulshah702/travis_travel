@@ -31,9 +31,6 @@
   Apologies for the dead files and links. The project's source code exists on the src/ folder.<br>
   Do make your contributions there and do well to fill the CONTRIBUTORS.md file.<br>
   Cheers!
-  
- ## Code of Conduct
-  [Contributor Code of Conduct](https://github.com/zero-to-mastery/travel-guide/blob/master/CODE_OF_CONDUCT.md)
-  
+ 
  ## Links
   [Facebook](https://www.facebook.com/zerotocodemastery/)
